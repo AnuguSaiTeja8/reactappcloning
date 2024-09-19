@@ -15,6 +15,8 @@ export default function Login() {
             <h1>login page in reac dadt</h1>
             <h3>safdsadsad</h3>
 
+            <span>hi koti</span>
+
         </div>
     )
 }
