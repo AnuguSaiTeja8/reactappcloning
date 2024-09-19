@@ -16,6 +16,7 @@ export default function Login() {
             <h3>safdsadsad</h3>
 
             <span>hi koti</span>
+            <span>hello 2222</span>
 
         </div>
     )
